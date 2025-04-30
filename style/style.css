@@ -4,6 +4,10 @@ body {
     background-color: #f0f2f5;
   }
 
+  .mini_alce{
+    color: #1da1f2;
+  }
+  
   .container {
     display: flex;
     max-width: 1000px;
