@@ -1,4 +1,12 @@
 
+#navBar{
+  background-color: rgb(226, 49, 49);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+
+
 * {
       box-sizing: border-box;
     }
@@ -10,7 +18,7 @@ body {
     }
 
 header {
-      background-color: #e60023;
+      background-color: #ffffff;
       color: white;
       padding: 1rem;
       text-align: center;
